@@ -1,0 +1,11 @@
+D:\Michaux\PCDD\PCDD\PCDDBusiness\bin\Debug\PCDDBusiness.dll
+D:\Michaux\PCDD\PCDD\PCDDBusiness\bin\Debug\PCDDBusiness.pdb
+D:\Michaux\PCDD\PCDD\PCDDBusiness\bin\Debug\PCDDDAL.dll
+D:\Michaux\PCDD\PCDD\PCDDBusiness\bin\Debug\PCDDEntity.dll
+D:\Michaux\PCDD\PCDD\PCDDBusiness\bin\Debug\PCDDEnum.dll
+D:\Michaux\PCDD\PCDD\PCDDBusiness\bin\Debug\PCDDDAL.pdb
+D:\Michaux\PCDD\PCDD\PCDDBusiness\bin\Debug\PCDDEntity.pdb
+D:\Michaux\PCDD\PCDD\PCDDBusiness\bin\Debug\PCDDEnum.pdb
+D:\Michaux\PCDD\PCDD\PCDDBusiness\obj\Debug\PCDDBusiness.csprojResolveAssemblyReference.cache
+D:\Michaux\PCDD\PCDD\PCDDBusiness\obj\Debug\PCDDBusiness.dll
+D:\Michaux\PCDD\PCDD\PCDDBusiness\obj\Debug\PCDDBusiness.pdb

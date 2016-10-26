@@ -1,0 +1,4 @@
+D:\Michaux\PCDD\PCDD\PCDDTools\bin\Debug\PCDDTools.dll
+D:\Michaux\PCDD\PCDD\PCDDTools\bin\Debug\PCDDTools.pdb
+D:\Michaux\PCDD\PCDD\PCDDTools\obj\Debug\PCDDTools.dll
+D:\Michaux\PCDD\PCDD\PCDDTools\obj\Debug\PCDDTools.pdb

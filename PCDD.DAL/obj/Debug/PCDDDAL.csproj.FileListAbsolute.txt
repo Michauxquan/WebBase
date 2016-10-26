@@ -1,0 +1,4 @@
+D:\Michaux\PCDD\PCDD\PCDD.DAL\bin\Debug\PCDDDAL.dll
+D:\Michaux\PCDD\PCDD\PCDD.DAL\bin\Debug\PCDDDAL.pdb
+D:\Michaux\PCDD\PCDD\PCDD.DAL\obj\Debug\PCDDDAL.dll
+D:\Michaux\PCDD\PCDD\PCDD.DAL\obj\Debug\PCDDDAL.pdb

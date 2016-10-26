@@ -1,0 +1,4 @@
+D:\Michaux\PCDD\PCDD\PCDD.Entity\bin\Debug\PCDDEntity.dll
+D:\Michaux\PCDD\PCDD\PCDD.Entity\bin\Debug\PCDDEntity.pdb
+D:\Michaux\PCDD\PCDD\PCDD.Entity\obj\Debug\PCDDEntity.dll
+D:\Michaux\PCDD\PCDD\PCDD.Entity\obj\Debug\PCDDEntity.pdb
